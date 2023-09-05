@@ -20,7 +20,7 @@
 
 <a href="https://www.linkedin.com/in/mohamed-mahmoud-7b03621b4" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mohamed_5054" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20mahmoud-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Embedded System
 ![C Programming](https://img.shields.io/badge/-C_programing-05122A?style=flat&logo=C)&nbsp;
 ![AVR_interfacing](https://img.shields.io/badge/-AVR_interfacing-05122A?style=flat&logo=AVR)&nbsp;
 
